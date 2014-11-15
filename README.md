@@ -37,7 +37,7 @@ var arr = linspace( 0, 100, 6 );
 The output `array` is guaranteed to include the `start` and `end` values. Beware, however, that values between the `start` and `end` are subject to floating point errors. Hence,
 
 ``` javascript
-var arr = linespace( 0, 1, 3 );
+var arr = linspace( 0, 1, 3 );
 // returns [ 0, ~0.5, 1 ]
 ```
 
