@@ -25,17 +25,27 @@
   "keywords": [
     "compute.io",
     "compute",
-    "computation"
+    "computation",
+    "mathematics",
+    "math",
+    "array",
+    "matlab",
+    "utilities",
+    "utils",
+    "linear"
   ],
   "bugs": {
     "url": "https://github.com/compute-io/linspace/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "validate.io-integer": "^1.0.1"
+  },
   "devDependencies": {
     "chai": "1.x.x",
-    "mocha": "1.x.x",
+    "compute-roundn": "^1.0.3",
     "coveralls": "^2.11.1",
-    "istanbul": "^0.3.0"
+    "istanbul": "^0.3.0",
+    "mocha": "1.x.x"
   },
   "licenses": [
     {
