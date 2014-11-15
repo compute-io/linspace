@@ -1,6 +1,6 @@
 {
   "name": "compute-linspace",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generates a linearly spaced numeric array.",
   "author": {
     "name": "Athan Reines",
