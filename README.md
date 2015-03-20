@@ -16,8 +16,6 @@ For use in the browser, use [browserify](https://github.com/substack/node-browse
 
 ## Usage
 
-To use the module,
-
 ``` javascript
 var linspace = require( 'compute-linspace' );
 ```
@@ -93,7 +91,7 @@ $ node ./examples/index.js
 
 ### Unit
 
-Unit tests use the [Mocha](http://visionmedia.github.io/mocha) test framework with [Chai](http://chaijs.com) assertions. To run the tests, execute the following command in the top-level application directory:
+Unit tests use the [Mocha](http://mochajs.org) test framework with [Chai](http://chaijs.com) assertions. To run the tests, execute the following command in the top-level application directory:
 
 ``` bash
 $ make test
@@ -116,16 +114,15 @@ Istanbul creates a `./reports/coverage` directory. To access an HTML version of 
 $ make view-cov
 ```
 
-
+---
 ## License
 
-[MIT license](http://opensource.org/licenses/MIT). 
+[MIT license](http://opensource.org/licenses/MIT).
 
 
----
 ## Copyright
 
-Copyright &copy; 2014. Athan Reines.
+Copyright &copy; 2014-2015. Athan Reines.
 
 
 [npm-image]: http://img.shields.io/npm/v/compute-linspace.svg

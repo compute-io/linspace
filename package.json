@@ -10,6 +10,10 @@
     {
       "name": "Athan Reines",
       "email": "kgryte@gmail.com"
+    },
+    {
+      "name": "Philipp Burckhardt",
+      "email": "pburckhardt@outlook.com"
     }
   ],
   "scripts": {
@@ -45,6 +49,8 @@
     "compute-roundn": "^1.0.3",
     "coveralls": "^2.11.1",
     "istanbul": "^0.3.0",
+    "jshint": "^2.6.3",
+    "jshint-stylish": "^1.0.1",
     "mocha": "1.x.x"
   },
   "licenses": [
